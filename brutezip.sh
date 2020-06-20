@@ -24,4 +24,3 @@ else
 echo "Invalid format, try: .zip, .rar or .7z"
 exit 1;
 fi
-
